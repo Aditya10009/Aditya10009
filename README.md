@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Aditya10009
+- 👀 I’m interested in web development, data science, and machine learning.
+- 🌱 I’m currently learning advanced algorithms, cloud computing with AWS, and data analytics using Python.
+- 💞️ I’m looking to collaborate on open-source projects related to web development, IoT, and data science.
+- 📫 How to reach me: [Email](mailto:mishraaditya2018@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aditya-kumar-mishra-5621a7258)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy exploring new technologies and implementing innovative solutions to real-world problems.
