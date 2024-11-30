@@ -12,7 +12,7 @@
 - 💻 Currently Learning: Advanced algorithms, AWS Cloud Computing, and data analytics with Python.
 - 📫 Feel free to contact me : **mishraaditya2018@gmail.com**
 
-</p> -->
+</p> 
 
  ## 💻 &nbsp;My Coding Profiles
 
