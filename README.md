@@ -8,7 +8,7 @@
 
 ## 👨‍💻  &nbsp;About Me 
 - 🎓 3rd-year B.Tech Student in Computer Science at Noida Institute of Engineering and Technology.
-- 🌱 I’m fascinated by web development, IoT, machine learning, and how data science is transforming industries.
+- 🌱 I’m fascinated by Web Development, IoT, Machine Learning, and how Data Science is transforming Industries.
 - 💻 Currently Learning: Advanced algorithms, AWS Cloud Computing, and data analytics with Python.
 - 📫 Feel free to contact me : **mishraaditya2018@gmail.com**
 
@@ -18,11 +18,14 @@
 
 <p align="left">
 
-<a href="https://leetcode.com/devgoyalg/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Aditya10009" /></a>
-<a href="https://www.codechef.com/users/devgoyalg" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Aditya10009"/></a>
-<a href="https://www.naukri.com/code360/profile/devgoyalg" target="blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Aditya10009"/></a>
-<a href="https://www.geeksforgeeks.org/user/devgoyalg/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Aditya10009"/></a>
-<a href="https://www.hackerrank.com/profile/devgoyalg" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Aditya10009"/></a>
+<a href="https://leetcode.com/u/Aditya_1009/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Aditya10009" /></a>
+<a href="https://www.codechef.com/users/aditya10009" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Aditya10009"/></a>
+<a href="https://www.codingninjas.com/" target="blank"><img align="center" src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Aditya10009"/></a>
+<a href="https://www.geeksforgeeks.org/user/mishraadi6eqv/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Aditya10009"/></a>
+<a href="https://www.hackerrank.com/profile/mishraaditya2018" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Aditya10009"/></a>
+<a href="https://adityamishraprakhar.netlify.app/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
 
 </p>
 
@@ -106,4 +109,4 @@
 	<a href="mailto:mishraaditya2018@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
-<!-- Made By [DevGoyalG](https://github.com/DevGoyalG) -->
+<!-- Made By [Aditya Kumar Mishra](https://github.com/Aditya10009) -->
