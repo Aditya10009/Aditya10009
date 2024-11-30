@@ -100,12 +100,12 @@
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-	<a href="https://linktr.ee/devgoyalg" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://adityamishraprakhar.netlify.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/[DevGoyalG](https://github.com/DevGoyalG)" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/devgoyalg/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="http://www.linkedin.com/in/aditya-kumar-mishra-5621a7258" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 <!-- 	<a href="https://www.facebook.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
-	<a href="https://x.com/DevGoyalG/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Instagram"/></a>
-	<a href="https://www.instagram.com/dev_goyal_g/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="X"/></a>
+	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/x.png" alt="Instagram"/></a>
+	<a href="" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="X"/></a>
 	<a href="mailto:mishraaditya2018@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
